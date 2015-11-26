@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParticipaMVP</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="welcome_info">Hello, I am a TextView</string>
+</resources>
